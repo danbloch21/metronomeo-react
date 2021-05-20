@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/metronomeo-react/static/css/main.687d0e01.chunk.css",
+    "main.js": "/metronomeo-react/static/js/main.7be16f5d.chunk.js",
+    "main.js.map": "/metronomeo-react/static/js/main.7be16f5d.chunk.js.map",
+    "runtime-main.js": "/metronomeo-react/static/js/runtime-main.9432f554.js",
+    "runtime-main.js.map": "/metronomeo-react/static/js/runtime-main.9432f554.js.map",
+    "static/js/2.506d4e80.chunk.js": "/metronomeo-react/static/js/2.506d4e80.chunk.js",
+    "static/js/2.506d4e80.chunk.js.map": "/metronomeo-react/static/js/2.506d4e80.chunk.js.map",
+    "static/js/3.8f765063.chunk.js": "/metronomeo-react/static/js/3.8f765063.chunk.js",
+    "static/js/3.8f765063.chunk.js.map": "/metronomeo-react/static/js/3.8f765063.chunk.js.map",
+    "index.html": "/metronomeo-react/index.html",
+    "static/css/main.687d0e01.chunk.css.map": "/metronomeo-react/static/css/main.687d0e01.chunk.css.map",
+    "static/js/2.506d4e80.chunk.js.LICENSE.txt": "/metronomeo-react/static/js/2.506d4e80.chunk.js.LICENSE.txt",
+    "static/media/click1.07cda4b8.wav": "/metronomeo-react/static/media/click1.07cda4b8.wav",
+    "static/media/click2.5b5930c4.wav": "/metronomeo-react/static/media/click2.5b5930c4.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9432f554.js",
+    "static/js/2.506d4e80.chunk.js",
+    "static/css/main.687d0e01.chunk.css",
+    "static/js/main.7be16f5d.chunk.js"
+  ]
+}
